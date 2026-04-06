@@ -1,2 +1,2 @@
 # practice.py
-do it again and again (practice)
+“Every line of code you write is a step forward.”
